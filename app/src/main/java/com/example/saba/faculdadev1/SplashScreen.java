@@ -158,7 +158,7 @@ public class SplashScreen extends Activity {
 
         try {
             // Create connection to send GCM Message request.
-            URL url1 = new URL("http://192.168.1.145:8080/file.json");
+            URL url1 = new URL("http://10.0.1.8:8080/file.json");
 //            Log.i("urll","atualziado");
             HttpURLConnection conn = (HttpURLConnection) url1.openConnection();
 
