@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Faculdadev1</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_new">Nova</string>
+    <string name="action_update">Editar</string>
+    <string name="action_delete">Apagar</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
